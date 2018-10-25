@@ -1,0 +1,22 @@
+html, body{
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+
+.container{
+  padding: 15px;
+}
+
+#progressContainer{
+  width: 100%;
+  background-color: #ddd;
+}
+
+#progress {
+  width: 1%;
+  /* // increasing this increase progress bar */
+  height: 30px;
+  background-color: #337ab7;
+}
